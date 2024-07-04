@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/passwordSavingApp/static/css/main.ece75490.css",
+    "main.css": "/passwordSavingApp/static/css/main.9b4c297e.css",
     "main.js": "/passwordSavingApp/static/js/main.d66e9978.js",
     "static/js/453.f3f8a45f.chunk.js": "/passwordSavingApp/static/js/453.f3f8a45f.chunk.js",
     "index.html": "/passwordSavingApp/index.html",
-    "main.ece75490.css.map": "/passwordSavingApp/static/css/main.ece75490.css.map",
+    "main.9b4c297e.css.map": "/passwordSavingApp/static/css/main.9b4c297e.css.map",
     "main.d66e9978.js.map": "/passwordSavingApp/static/js/main.d66e9978.js.map",
     "453.f3f8a45f.chunk.js.map": "/passwordSavingApp/static/js/453.f3f8a45f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ece75490.css",
+    "static/css/main.9b4c297e.css",
     "static/js/main.d66e9978.js"
   ]
 }
