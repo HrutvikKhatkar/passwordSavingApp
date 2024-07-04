@@ -1,0 +1,16 @@
+.initial {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(53, 150, 118);
+    border-radius: 21px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
+  }
