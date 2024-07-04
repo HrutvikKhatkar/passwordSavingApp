@@ -20,7 +20,9 @@ const ListPasswordHere = props => {
 
   return (
     <li className="list-item">
-      <Initial initialLetter={initialLetter} color={color} />
+      <div>
+        <Initial initialLetter={initialLetter} color={color} />
+      </div>
       <div className="pass-details">
         <p className="pass-details-para">{websiteInput}</p>
         <p className="pass-details-para">{usernameInput}</p>

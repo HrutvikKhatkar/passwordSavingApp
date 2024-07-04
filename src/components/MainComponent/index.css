@@ -29,7 +29,7 @@
     border-radius: 7px;
     margin-top: 20px;
   }
-  @media (max-width: 576px) {
+  @media (max-width: 668px) {
     .get-detail-password-container {
       flex-direction: column;
     }
@@ -45,7 +45,7 @@
     padding: 20px;
     padding-bottom: 0px;
   }
-  @media (max-width: 576px) {
+  @media (max-width: 668px) {
     .add-password-container {
       width: 90%;
     }
@@ -102,7 +102,7 @@
   .password-img {
     width: 40%;
   }
-  @media (max-width: 576px) {
+  @media (max-width: 668px) {
     .password-img {
       width: 80%;
     }
@@ -196,12 +196,7 @@
     margin: 0px;
     padding: 0px;
   }
-  @media (max-width: 576px) {
-    .ul-container {
-      display: flex;
-      flex-direction: column;
-    }
-  }
+ 
   .no-password-img {
     width: 40%;
   }
