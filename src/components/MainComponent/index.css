@@ -11,10 +11,14 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    width: 90%;
+    width: 95%;
+    padding: 0px;
+    margin: 0px;
   }
   .app-logo {
     width: 20%;
+    padding: 0px;
+    margin: 0px;
   }
   .get-detail-password-container {
     background-color: #5763a5;
@@ -27,7 +31,7 @@
     padding-top: 25px;
     padding-bottom: 25px;
     border-radius: 7px;
-    margin-top: 20px;
+    margin-top: 5px;
   }
   @media (max-width: 668px) {
     .get-detail-password-container {
